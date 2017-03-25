@@ -23,6 +23,7 @@
     "tmp": "0.0.31"
   },
   "package-deps": [
-    "linter"
+    "linter",
+    "language-cuda"
   ]
 }
