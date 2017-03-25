@@ -1,7 +1,7 @@
 {
   "name": "linter-nvcc",
   "main": "./lib/linter-nvcc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Lint CUDA file using nvcc",
   "keywords": [],
   "repository": "https://github.com/blahgeek/linter-nvcc",
