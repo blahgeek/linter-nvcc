@@ -2,8 +2,10 @@
 
 NVCC linter for Atom. Modified from [linter-clang](https://github.com/AtomLinter/linter-clang)
 
-This project is in alpha stage.
+This project is in beta. I don't write javascript often (and I hate javascript), so patches are welcome.
 
-## Note
+## Project-specific settings
 
-I hate javascript. I don't write javascript often. Don't expect highly on this.
+### .nvcc_complete
+
+Almost same as `.clang_complete`.
